@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/wp-admin
+/wp-include
+/wp-content/upgrade
+/wp-content/themes/twentysixteen
